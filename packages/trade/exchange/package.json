@@ -65,7 +65,8 @@
         "reflect-metadata": "0.1.13",
         "rxjs": "7.4.0",
         "swagger-ui-express": "4.2.0",
-        "typeorm": "0.2.41"
+        "typeorm": "0.2.41",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@jest/globals": "27.4.4",

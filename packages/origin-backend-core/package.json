@@ -30,7 +30,8 @@
     "dependencies": {
         "class-transformer": "0.3.1",
         "class-validator": "0.13.2",
-        "ethers": "5.3.1"
+        "ethers": "5.3.1",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@types/mocha": "9.0.0",

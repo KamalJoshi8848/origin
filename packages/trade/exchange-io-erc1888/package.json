@@ -45,7 +45,8 @@
         "@nestjs/typeorm": "8.0.2",
         "ethers": "5.3.1",
         "moment": "2.29.2",
-        "rxjs": "7.4.0"
+        "rxjs": "7.4.0",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@ethersproject/abi": "5.3.1",

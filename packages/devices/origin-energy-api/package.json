@@ -28,7 +28,8 @@
         "@energyweb/origin-backend-core": "8.2.1",
         "@nestjs/config": "1.0.2",
         "@nestjs/passport": "8.0.1",
-        "@nestjs/swagger": "5.1.4"
+        "@nestjs/swagger": "5.1.4",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@nestjs/common": "8.1.1",

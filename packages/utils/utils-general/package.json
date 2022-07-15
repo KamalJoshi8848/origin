@@ -34,7 +34,8 @@
         "ethers": "5.3.1",
         "jsonschema": "1.4.0",
         "moment": "2.29.2",
-        "winston": "3.3.3"
+        "winston": "3.3.3",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@types/chai": "4.3.0",

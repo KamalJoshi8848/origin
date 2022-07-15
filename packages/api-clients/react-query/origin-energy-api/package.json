@@ -25,7 +25,8 @@
     "dependencies": {
         "@energyweb/origin-energy-api": "1.0.7",
         "axios": "0.24.0",
-        "react-query": "3.34.0"
+        "react-query": "3.34.0",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@nestjs/passport": "8.0.1",

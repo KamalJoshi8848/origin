@@ -31,7 +31,8 @@
         "moment": "2.29.2",
         "moment-timezone": "0.5.34",
         "qs": "6.10.2",
-        "reflect-metadata": "0.1.13"
+        "reflect-metadata": "0.1.13",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@types/chai": "4.3.0",

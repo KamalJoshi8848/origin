@@ -50,7 +50,8 @@
         "winston": "3.3.3",
         "winston-transport": "4.4.1",
         "write-json-file": "5.0.0",
-        "yaeti": "1.0.2"
+        "yaeti": "1.0.2",
+        "root": "~3.2.0"
     },
     "devDependencies": {
         "@types/mocha": "9.0.0",
